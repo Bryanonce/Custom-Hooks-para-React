@@ -1,4 +1,5 @@
 <h2>Use Fetch</h2>
+<hr/>
 <p>La forma de utilizar este hook es la siguiente:</p>
 <p>El hook recibe unja url y entrega un arreglo con 2 variables</p><br><br>
 <h2>const url = //LINK DE LA API QUE SE DESEA CONSUMIR//</h2>
